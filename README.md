@@ -1,6 +1,3 @@
-# AI-Traffic-Control-System
-This project was completed in partial fulfilment of my engineering degree.
-
 ## **Outline:**
 
 The system utilises SUMO traffic simulator and Python 3 with TensorFlow. The system is developed for a minor arterial road intersection 
@@ -64,15 +61,6 @@ summed to obtain the total waiting time. The goal of the system was to decrease 
 •	Netccfg – This is a sumo network configuration.
 
 •	Sumocfg – This is GUI file for the simulation
-
-
-## **References:** 
-1.	Vidali A, Crociani L, Vizzari G, Bandini,S, (2019). Bandini. A Deep Reinforcement Learning Approach to Adaptive Traffic Lights Management [cited 23 August 2019]. Available from: http://ceur-ws.org/Vol-2404/paper07.pdf
-2.	Gao J, Shen Y, Liu J, Ito M and Shiratori N. Adaptive Traffic Signal Control: Deep Reinforcement Learning Algorithm with Experience Replay and Target Network. [Internet]. Arxiv.org. 2019 [cited 28 June 2019]. Available from: https://arxiv.org/pdf/1705.02755.pdf
-3.	Liang X, Du X, Wang G, Han Z. (2018). Deep Reinforcement Learning for Traffic Light Control in Vehicular Networks. [cited 10 July 2019]. Available from: https://www.researchgate.net/publication/324104685_Deep_Reinforcement_Learning_for_Traffic_Light_Control_in_Vehicular_Networks
-4.	DLR - Institute of Transportation Systems - Eclipse SUMO – Simulation of Urban MObility [Internet]. Dlr.de. 2019 [cited 10 July 2019]. Available from: https://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/
-
-
 
 
 
